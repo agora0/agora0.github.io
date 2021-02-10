@@ -1,4 +1,4 @@
-# AGORA⓪
+# AG⓪RA
 
 Homepage of the Agora Media Aggregation and Microservices. 👉 https://agora0.github.io
 
@@ -19,7 +19,7 @@ Homepage of the Agora Media Aggregation and Microservices. 👉 https://agora0.g
 - Join the Agora - [agorahub/_join](https://github.com/agorahub/_join)
 - Start exploring - [agorahub/_meta](https://github.com/agorahub/_meta)
 
-[Agora⓪](https://github.com/agora0) is the community's civic-tech hub. Please start by reading the [Agora Improving Proposals (AIPs)](https://github.com/agorahub/AIPs).
+[AG⓪RA](https://github.com/agora0) is the community's civic-tech hub. Please start by reading the [Agora Improving Proposals (AIPs)](https://github.com/agorahub/AIPs).
 
 ## Disclaimer
 

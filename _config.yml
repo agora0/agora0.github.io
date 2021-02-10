@@ -1,5 +1,5 @@
 # Site settings
-title: Agora⓪
+title: AG⓪RA
 url: https://agora0.github.io
 description: "Agora Media Aggregation"
 keywords: "agora, 媒体聚合, 海外中文"
@@ -37,7 +37,7 @@ address:
   - line: ⓪pen source ⓵nitiative
 
 # Credits content
-credits: 'Agora⓪ is open to all <br> made with heart by <a href="https://github.com/theagora">theagora</a>'
+credits: 'AG⓪RA is open to all <br> made with heart by <a href="https://github.com/theagora">theagora</a>'
 
 # Build settings
 markdown: kramdown
