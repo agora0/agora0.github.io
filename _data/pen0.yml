@@ -1,9 +1,9 @@
-- name: NEW
+- name: 最新
   repo: https://github.com/agorahub/pen0
   site: https://agorahub.github.io/pen0
 - name: VOL.1
-  repo: https://github.com/agora0/pen01
-  site: https://agora0.github.io/pen01
+  repo: https://gitlab.com/agora0/pen/0x01
+  site: https://agora0.gitlab.io/pen/0x01
 - name: ISS.0
-  repo: https://github.com/agora0/pen00
-  site: https://agora0.github.io/pen00
+  repo: https://gitlab.com/agora0/pen/0x00
+  site: https://agora0.gitlab.io/pen/0x00
