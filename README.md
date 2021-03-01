@@ -4,9 +4,9 @@ Homepage of the Agora Media Aggregation and Microservices. 👉 https://agora0.g
 
 ## Media Aggregation
 
-| [PEN⓪](https://agorahub.github.io/pen0) | [BLOG⓪](https://agorahub.github.io/blog0) | [NEWS⓪](https://agorahub.github.io/news0) |
-| :---  | :-----   | :----- |
-| Column | RSS Blog | RSS News |
+| [PEN⓪](https://agorahub.github.io/pen0) | [BLOG⓪](https://agora0.gitlab.io/blog) | [NEWS⓪](https://agora0.gitlab.io/news) |
+| :--- | :------- | :------- |
+| Zine | RSS Blog | RSS News |
 
 ## Agora Microservices
 
