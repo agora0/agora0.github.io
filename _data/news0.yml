@@ -1,27 +1,30 @@
+- name: 最新
+  repo: https://gitlab.com/agora0/news
+  site: https://agora0.gitlab.io/news
 - name: "香港電台"
   repo: https://gitlab.com/agora0/news
-  site: https://agora0.gitlab.io/news/rthk.html
+  site: https://agora0.gitlab.io/news/rthk
 - name: "中央社"
   repo: https://gitlab.com/agora0/news
-  site: https://agora0.gitlab.io/news/cna.html
+  site: https://agora0.gitlab.io/news/cna
 - name: "中央日报"
   repo: https://gitlab.com/agora0/news
-  site: https://agora0.gitlab.io/news/joins.html
+  site: https://agora0.gitlab.io/news/joins
 - name: "共同社"
   repo: https://gitlab.com/agora0/news
-  site: https://agora0.gitlab.io/news/kyodo.html
+  site: https://agora0.gitlab.io/news/kyodo
 - name: "路透社"
   repo: https://gitlab.com/agora0/news
-  site: https://agora0.gitlab.io/news/reuters.html
+  site: https://agora0.gitlab.io/news/reuters
 - name: "英广"
   repo: https://gitlab.com/agora0/news
-  site: https://agora0.gitlab.io/news/bbc.html
+  site: https://agora0.gitlab.io/news/bbc
 - name: "法广"
   repo: https://gitlab.com/agora0/news
-  site: https://agora0.gitlab.io/news/rfi.html
+  site: https://agora0.gitlab.io/news/rfi
 - name: "德国之声"
   repo: https://gitlab.com/agora0/news
-  site: https://agora0.gitlab.io/news/dw.html
+  site: https://agora0.gitlab.io/news/dw
 - name: "2021.02"
   repo: https://gitlab.com/agora0/pen/2102
   site: https://agora0.gitlab.io/pen/2102
