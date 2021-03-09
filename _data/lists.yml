@@ -1,0 +1,95 @@
+'pen0': 
+  - name: 最新
+    repo: https://github.com/agorahub/pen0
+    site: https://agorahub.github.io/pen0
+  - name: VOL.2
+    repo: https://gitlab.com/agora0/pen/0x02
+    site: https://agora0.gitlab.io/pen/0x02
+  - name: VOL.1
+    repo: https://gitlab.com/agora0/pen/0x01
+    site: https://agora0.gitlab.io/pen/0x01
+  - name: ISS.0
+    repo: https://gitlab.com/agora0/pen/0x00
+    site: https://agora0.gitlab.io/pen/0x00
+
+'blog0': 
+  - name: 最新
+    repo: https://gitlab.com/agora0/blog
+    site: https://agora0.gitlab.io/blog
+  - name: 端传媒
+    repo: https://gitlab.com/agora0/blog
+    site: https://agora0.gitlab.io/blog/initium
+  - name: 馬特市
+    repo: https://gitlab.com/agora0/blog
+    site: https://agora0.gitlab.io/blog/matters
+  - name: 方格子
+    repo: https://gitlab.com/agora0/blog
+    site: https://agora0.gitlab.io/blog/vocus
+  - name: 20.Q4
+    repo: https://gitlab.com/agora0/pen/20q4
+    site: https://agora0.gitlab.io/pen/20q4
+  - name: 20.Q3
+    repo: https://gitlab.com/agora0/pen/20q3
+    site: https://agora0.gitlab.io/pen/20q3
+
+'news0': 
+  - name: 最新
+    repo: https://gitlab.com/agora0/news
+    site: https://agora0.gitlab.io/news
+  - name: 香港電台
+    repo: https://gitlab.com/agora0/news
+    site: https://agora0.gitlab.io/news/rthk
+  - name: 中央社
+    repo: https://gitlab.com/agora0/news
+    site: https://agora0.gitlab.io/news/cna
+  - name: 中央日报
+    repo: https://gitlab.com/agora0/news
+    site: https://agora0.gitlab.io/news/joins
+  - name: 共同社
+    repo: https://gitlab.com/agora0/news
+    site: https://agora0.gitlab.io/news/kyodo
+  - name: 路透社
+    repo: https://gitlab.com/agora0/news
+    site: https://agora0.gitlab.io/news/reuters
+  - name: 英广
+    repo: https://gitlab.com/agora0/news
+    site: https://agora0.gitlab.io/news/bbc
+  - name: 法广
+    repo: https://gitlab.com/agora0/news
+    site: https://agora0.gitlab.io/news/rfi
+  - name: 德国之声
+    repo: https://gitlab.com/agora0/news
+    site: https://agora0.gitlab.io/news/dw
+  - name: ’21.02
+    repo: https://gitlab.com/agora0/pen/2102
+    site: https://agora0.gitlab.io/pen/2102
+  - name: ’21.01
+    repo: https://gitlab.com/agora0/pen/2101
+    site: https://agora0.gitlab.io/pen/2101
+  - name: ’20.12
+    repo: https://gitlab.com/agora0/pen/2012
+    site: https://agora0.gitlab.io/pen/2012
+  - name: ’20.11
+    repo: https://gitlab.com/agora0/pen/2011
+    site: https://agora0.gitlab.io/pen/2011
+  - name: ’20.10
+    repo: https://gitlab.com/agora0/pen/2010
+    site: https://agora0.gitlab.io/pen/2010
+  - name: ’20.09
+    repo: https://gitlab.com/agora0/pen/2009
+    site: https://agora0.gitlab.io/pen/2009
+  - name: ’20.08
+    repo: https://gitlab.com/agora0/pen/2008
+    site: https://agora0.gitlab.io/pen/2008
+  - name: ’20.07
+    repo: https://gitlab.com/agora0/pen/2007
+    site: https://agora0.gitlab.io/pen/2007
+  - name: ’20.06
+    repo: https://gitlab.com/agora0/pen/2006
+    site: https://agora0.gitlab.io/pen/2006
+  - name: ’20.05
+    repo: https://gitlab.com/agora0/pen/2005
+    site: https://agora0.gitlab.io/pen/2005
+  - name: ’20.04
+    repo: https://gitlab.com/agora0/pen/2004
+    site: https://agora0.gitlab.io/pen/2004
