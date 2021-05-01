@@ -2,6 +2,9 @@
   - name: 最新
     repo: https://github.com/agorahub/pen0
     site: https://agorahub.github.io/pen0
+  - name: VOL.4
+    repo: https://gitlab.com/agora0/pen/0x04
+    site: https://agora0.gitlab.io/pen/0x04
   - name: VOL.3
     repo: https://gitlab.com/agora0/pen/0x03
     site: https://agora0.gitlab.io/pen/0x03
@@ -51,9 +54,6 @@
   - name: 中央社
     repo: https://gitlab.com/agora0/news
     site: https://agora0.gitlab.io/news/cna
-  - name: 中央日报
-    repo: https://gitlab.com/agora0/news
-    site: https://agora0.gitlab.io/news/joins
   - name: 共同社
     repo: https://gitlab.com/agora0/news
     site: https://agora0.gitlab.io/news/kyodo
@@ -69,6 +69,12 @@
   - name: 德国之声
     repo: https://gitlab.com/agora0/news
     site: https://agora0.gitlab.io/news/dw
+  - name: 半岛电视台
+    repo: https://gitlab.com/agora0/news
+    site: https://agora0.gitlab.io/news/aj
+  - name: ’21.04
+    repo: https://gitlab.com/agora0/pen/2104
+    site: https://agora0.gitlab.io/pen/2104
   - name: ’21.03
     repo: https://gitlab.com/agora0/pen/2103
     site: https://agora0.gitlab.io/pen/2103
