@@ -2,6 +2,9 @@
   - name: 最新
     repo: https://github.com/agorahub/pen0
     site: https://agorahub.github.io/pen0
+  - name: VOL.5
+    repo: https://gitlab.com/agora0/pen/0x05
+    site: https://agora0.gitlab.io/pen/0x05
   - name: VOL.4
     repo: https://gitlab.com/agora0/pen/0x04
     site: https://agora0.gitlab.io/pen/0x04
@@ -72,6 +75,9 @@
   - name: 半岛电视台
     repo: https://gitlab.com/agora0/news
     site: https://agora0.gitlab.io/news/aj
+  - name: ’21.05
+    repo: https://gitlab.com/agora0/pen/2105
+    site: https://agora0.gitlab.io/pen/2105
   - name: ’21.04
     repo: https://gitlab.com/agora0/pen/2104
     site: https://agora0.gitlab.io/pen/2104
