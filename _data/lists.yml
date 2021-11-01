@@ -99,6 +99,9 @@
   - name: 半岛电视台
     repo: https://gitlab.com/agora0/news
     site: https://agora0.gitlab.io/news/aj
+  - name: ’21.10
+    repo: https://gitlab.com/agora0/pen/2110
+    site: https://agora0.gitlab.io/pen/2110
   - name: ’21.09
     repo: https://gitlab.com/agora0/pen/2109
     site: https://agora0.gitlab.io/pen/2109
