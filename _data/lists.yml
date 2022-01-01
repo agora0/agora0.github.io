@@ -61,6 +61,12 @@
   - name: 眾新聞
     repo: https://gitlab.com/agora0/blog
     site: https://agora0.gitlab.io/blog/hkcnews
+  - name: 獨立媒體
+    repo: https://gitlab.com/agora0/blog
+    site: https://agora0.gitlab.io/blog/inmedia
+  - name: 21.Q4
+    repo: https://gitlab.com/agora0/pen/21q4
+    site: https://agora0.gitlab.io/pen/21q4
   - name: 21.Q3
     repo: https://gitlab.com/agora0/pen/21q3
     site: https://agora0.gitlab.io/pen/21q3
@@ -105,6 +111,9 @@
   - name: 半岛电视台
     repo: https://gitlab.com/agora0/news
     site: https://agora0.gitlab.io/news/aj
+  - name: ’21.12
+    repo: https://gitlab.com/agora0/pen/2112
+    site: https://agora0.gitlab.io/pen/2112
   - name: ’21.11
     repo: https://gitlab.com/agora0/pen/2111
     site: https://agora0.gitlab.io/pen/2111
