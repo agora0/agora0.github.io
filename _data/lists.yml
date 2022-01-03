@@ -46,24 +46,6 @@
   - name: 最新
     repo: https://gitlab.com/agora0/blog
     site: https://agora0.gitlab.io/blog
-  - name: 端传媒
-    repo: https://gitlab.com/agora0/blog
-    site: https://agora0.gitlab.io/blog/initium
-  - name: 馬特市
-    repo: https://gitlab.com/agora0/blog
-    site: https://agora0.gitlab.io/blog/matters
-  - name: 方格子
-    repo: https://gitlab.com/agora0/blog
-    site: https://agora0.gitlab.io/blog/vocus
-  - name: 立場新聞
-    repo: https://gitlab.com/agora0/blog
-    site: https://agora0.gitlab.io/blog/stand
-  - name: 眾新聞
-    repo: https://gitlab.com/agora0/blog
-    site: https://agora0.gitlab.io/blog/hkcnews
-  - name: 獨立媒體
-    repo: https://gitlab.com/agora0/blog
-    site: https://agora0.gitlab.io/blog/inmedia
   - name: 21.Q4
     repo: https://gitlab.com/agora0/pen/21q4
     site: https://agora0.gitlab.io/pen/21q4
@@ -87,30 +69,6 @@
   - name: 最新
     repo: https://gitlab.com/agora0/news
     site: https://agora0.gitlab.io/news
-  - name: 香港電台
-    repo: https://gitlab.com/agora0/news
-    site: https://agora0.gitlab.io/news/rthk
-  - name: 中央社
-    repo: https://gitlab.com/agora0/news
-    site: https://agora0.gitlab.io/news/cna
-  - name: 共同社
-    repo: https://gitlab.com/agora0/news
-    site: https://agora0.gitlab.io/news/kyodo
-  - name: 路透社
-    repo: https://gitlab.com/agora0/news
-    site: https://agora0.gitlab.io/news/reuters
-  - name: 英广
-    repo: https://gitlab.com/agora0/news
-    site: https://agora0.gitlab.io/news/bbc
-  - name: 法广
-    repo: https://gitlab.com/agora0/news
-    site: https://agora0.gitlab.io/news/rfi
-  - name: 德国之声
-    repo: https://gitlab.com/agora0/news
-    site: https://agora0.gitlab.io/news/dw
-  - name: 半岛电视台
-    repo: https://gitlab.com/agora0/news
-    site: https://agora0.gitlab.io/news/aj
   - name: ’21.12
     repo: https://gitlab.com/agora0/pen/2112
     site: https://agora0.gitlab.io/pen/2112
