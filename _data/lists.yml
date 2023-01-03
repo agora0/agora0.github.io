@@ -2,6 +2,9 @@
   - name: 最新
     repo: https://github.com/agorahub/pen0
     site: https://agorahub.github.io/pen0
+  - name: VOL.24
+    repo: https://gitlab.com/agora0/pen/0x18
+    site: https://agora0.gitlab.io/pen/0x18
   - name: VOL.23
     repo: https://gitlab.com/agora0/pen/0x17
     site: https://agora0.gitlab.io/pen/0x17
@@ -79,6 +82,9 @@
   - name: 最新
     repo: https://github.com/agora0/blog
     site: https://agora0.github.io/blog
+  - name: 22.Q4
+    repo: https://gitlab.com/agora0/pen/22q4
+    site: https://agora0.gitlab.io/pen/22q4
   - name: 22.Q3
     repo: https://gitlab.com/agora0/pen/22q3
     site: https://agora0.gitlab.io/pen/22q3
@@ -111,6 +117,9 @@
   - name: 最新
     repo: https://github.com/agora0/news
     site: https://agora0.github.io/news
+  - name: ’22.12
+    repo: https://gitlab.com/agora0/pen/2212
+    site: https://agora0.gitlab.io/pen/2212
   - name: ’22.11
     repo: https://gitlab.com/agora0/pen/2211
     site: https://agora0.gitlab.io/pen/2211
