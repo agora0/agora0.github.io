@@ -4,7 +4,7 @@ Homepage of the Agora Media Aggregation and Microservices. 👉 https://agora0.g
 
 ## Media Aggregation
 
-| [PEN⓪](https://agorahub.github.io/pen0) | [BLOG⓪](https://agora0.gitlab.io/blog) | [NEWS⓪](https://agora0.gitlab.io/news) |
+| [PEN⓪](https://agorahub.github.io/pen0) | [BLOG⓪](https://agora0.gitlab.io/blog) | [NEWS⓪](https://agora0.github.io/news) |
 | -- | -- | -- |
 | [![](./img/portfolio/pen0.png)](https://agorahub.github.io/pen0) | [![](./img/portfolio/blog0.png)](https://agorahub.github.io/blog0) | [![](./img/portfolio/news0.png)](https://agorahub.github.io/news0) |
 
