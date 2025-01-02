@@ -2,6 +2,9 @@
   - name: 最新
     repo: https://github.com/agorahub/pen0
     site: https://agorahub.github.io/pen0
+  - name: VOL.48
+    repo: https://github.com/agora0/0x30
+    site: https://agora0.github.io/0x30
   - name: VOL.47
     repo: https://github.com/agora0/0x2f
     site: https://agora0.github.io/0x2f
@@ -151,6 +154,9 @@
   - name: 最新
     repo: https://github.com/agora0/post
     site: https://agora0.github.io/post
+  - name: 24.Q4
+    repo: https://github.com/agora0/24q4
+    site: https://agora0.github.io/24q4
   - name: 24.Q3
     repo: https://github.com/agora0/24q3
     site: https://agora0.github.io/24q3
@@ -207,6 +213,9 @@
   - name: 最新
     repo: https://github.com/agora0/news
     site: https://agora0.github.io/news
+  - name: ’24.12
+    repo: https://github.com/agora0/2412
+    site: https://agora0.github.io/2412
   - name: ’24.11
     repo: https://github.com/agora0/2411
     site: https://agora0.github.io/2411
