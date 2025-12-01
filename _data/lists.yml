@@ -2,6 +2,9 @@
   - name: 最新
     repo: https://github.com/agorahub/pen0
     site: https://agorahub.github.io/pen0
+  - name: VOL.59
+    repo: https://github.com/agora0/0x3b
+    site: https://agora0.github.io/0x3b
   - name: VOL.58
     repo: https://github.com/agora0/0x3a
     site: https://agora0.github.io/0x3a
@@ -252,6 +255,9 @@
   - name: 最新
     repo: https://github.com/agora0/news
     site: https://agora0.github.io/news
+  - name: ’25.11
+    repo: https://github.com/agora0/2511
+    site: https://agora0.github.io/2511
   - name: ’25.10
     repo: https://github.com/agora0/2510
     site: https://agora0.github.io/2510
